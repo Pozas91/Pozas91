@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Pozas91
-- 👀 I’m interested in AI, IoT, Mobile applications
+- 👋 Hi, I’m @Pozas91, a researcher at the University of Málaga.
+- 👀 I’m interested in AI, IoT, Mobile applications and Web services
 - 🌱 I’m currently learning about AI, genetics algorithms, Neuronal Networks, ...
-- 💞️ I’m looking to collaborate on Malaga's University
 
 <!---
 Pozas91/Pozas91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
